@@ -6,11 +6,11 @@
 
 Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 8pm
 
-Finish time:
+Finish time: 9:30pm
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour, 30 minutes
 
 ##### Why are we implementing this feature?
 
@@ -31,11 +31,11 @@ You may decide how many files to include, but at the minimum should include base
 
 Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 9:30pm
 
-Finish time:
+Finish time: 11:30
 
-Actual time needed to complete:
+Actual time needed to complete: 2 hours
 
 ##### Why are we implementing this feature?
 
