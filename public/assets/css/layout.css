@@ -481,8 +481,9 @@ button:active,
 }
 
 #main > section.one {
+  transition-duration: 1s;
   background-color: #81918e;
-  background-image: url("../../images/forest.jpg");
+  /* background-image: url("../../images/forest.jpg"); */
 }
 
 #main > section.two {

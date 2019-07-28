@@ -59,3 +59,34 @@ Add you own color scheme and Google fonts.
 Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, Unsplash has a nice variety of free images.
 Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
+## User Acceptance Tests
+
+### Feature #3: Add functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: **\_**
+
+Finish time: **\_**
+
+Actual time needed to complete: **\_**
+
+#### Why are we implementing this feature?
+
+As a user, I want to view a unique portfolio so that the developer’s projects and skills stand out.
+
+#### What are we going to implement?
+
+Given that a user opens the application in the browser
+When the user navigates to the home page
+Then the portfolio contents should be displayed
+
+#### How are we implementing it?
+
+Complete the following features:
+Use CDNs for content from libraries and remove the source code files from the project, as applicable
+Note: CDNs are available for all libraries except Breakpoints.JS
+In tablet view, show a fixed navigation menu instead of a hamburger menu
+Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
+Add any other UI features that you feel will make your portfolio unique and personalized

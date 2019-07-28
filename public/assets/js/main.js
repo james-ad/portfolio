@@ -102,4 +102,30 @@
     target: $body,
     visibleClass: 'header-visible'
   });
+  // create a function that changes the css background of hero image to the first one
+  // Then after an interval, it calls the second image
+  // then after another interval, it calls the third
+  // then in the third, call the original function recursively
+  // all using timeouts
+  const startCarousel = () => {
+    $('#main > section.one').css(
+      'background-image',
+      'url("./images/forest.jpg")'
+    );
+    setTimeout(() => {
+      $('#main > section.one').css(
+        'background-image',
+        'url("./images/stars.jpg")'
+      );
+    }, 3000);
+    setTimeout(() => {
+      $('#main > section.one').css(
+        'background-image',
+        'url("./images/windy-road.jpg")'
+      );
+    }, 6000);
+    setTimeout(startCarousel, 9500);
+  };
+
+  startCarousel();
 })(jQuery);
