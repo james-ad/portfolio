@@ -66,11 +66,11 @@ Keep in mind that this template is just a starting point. It is yours to modify 
 
 Estimate of time needed to complete: 2 hours
 
-Start time: **\_**
+Start time: 8am
 
-Finish time: **\_**
+Finish time: 6pm
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 10 hours
 
 #### Why are we implementing this feature?
 
